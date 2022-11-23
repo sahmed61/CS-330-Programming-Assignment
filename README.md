@@ -23,12 +23,17 @@ Executables:
 
 build:
 javac Part1.java
+
 run:
 java Part1
 
 build: 
 javac Part2.java
+
 run: 
 java Part2
+
+I created JUnit tests on eclipse where I made the project 
+I clicked file, new JUnit Test Case, Finish  
 
 The program has been tested on Windows 10/11
