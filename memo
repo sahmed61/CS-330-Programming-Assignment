@@ -1,0 +1,30 @@
+Hello Professor Bistriceanu
+
+1. I created a java file for part 1 of the project 
+2. To start I used a scanner to scan the user input for the string 
+3. Any character that is not 0-9 was removed and that number was printed 
+4. I then used the contains method to check if the unlock access code "419061" is in the number or the lock access code "419064"
+5. The program is to then tell you what action has been taken unlock or lock 
+6. I then created a separate java file for part 2 of the project
+7. To estimate the average time to break the lock I set the input string to be 100 digits, the number of attempts to 100000, and used a counter to find the total number of successful attempts 
+8. I used a for loop and a random number generator, which is a string, to simulate many attempts
+9. The contains method was used again to check if unlock access code was found 
+10. To find the average of successful attempts I took the total number of successful attempts and divided it by the number of attempts  
+11. I then conducted an actual test 
+12. I made another random number generator that was a string 
+13. I again used contains to check when the lock was unlocked 
+14. I used the split method to see how many times the lock was unlocked 
+15. I then used the substring method to find out how many symbols were generated until the lock was unlocked 
+16. In case the lock was not unlocked the program prompts you to try again
+
+The FA was all made in the java language 
+
+The regular expressions in Java are patterns of characters that describe a set of strings. The java.util.regex package is used to find patterns in an input sequence. 
+
+The FA can go:
+Lock 
+Unlock 
+Lock & Unlock
+Unlock & Lock 
+
+
