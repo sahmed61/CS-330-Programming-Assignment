@@ -21,10 +21,14 @@ Part 2:
 
 Executables:
 
+build:
 javac Part1.java
+run:
 java Part1
 
+build: 
 javac Part2.java
+run: 
 java Part2
 
 The program has been tested on Windows 10/11
